@@ -19,6 +19,3 @@ Se ejecutó la simulación con 2 productores (5 pedidos cada uno) y 2 consumidor
 ## Requisitos
 - Java 8 o superior
 - IDE como NetBeans, IntelliJ o compilación por terminal
-
-## Autor
-Tu Nombre - Proyecto para curso de Programación Concurrente en Java.
